@@ -109,4 +109,4 @@ jupyter notebook "DS3000 Final Project.ipynb"
 
 ## Contact
 
-**Dhruv Sarin** - [LinkedIn](https://linkedin.com/in/dhruvsarin) | [GitHub](https://github.com/druvsarin1)
+**Druv Sarin** - [LinkedIn](https://linkedin.com/in/druvsarin) | [GitHub](https://github.com/druvsarin1)
